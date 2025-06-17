@@ -99,9 +99,6 @@ The dataset contains 15 attributes from an anonymous organization's social media
 - `total_conversion`: People who inquired about the product
 - `approved_conversion`: People who purchased the product
 
-## Demo
-
-**Watch the demo video:** [Facebook Ad Campaign Analysis Demo](https://youtu.be/Ih6YxZ5ZXyM)
 
 ## Data Sources
 
