@@ -132,5 +132,4 @@ The dataset contains 15 attributes from an anonymous organization's social media
 5. Analyze key influencers for deeper insights
 
 ---
-
 *This analysis helps optimize Facebook advertising campaigns through data-driven insights and targeted recommendations.*
